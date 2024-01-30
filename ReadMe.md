@@ -113,8 +113,8 @@ id: Laos
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Laos/
-markerFolder: ./Laos/
+geojsonFolder: ./
+markerFolder: ./
 ```
 
 [name-en::Laos] 
