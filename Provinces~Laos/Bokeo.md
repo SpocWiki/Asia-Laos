@@ -40,11 +40,18 @@ markerFolder: ./Bokeo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo|Bokeo]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.public|Bokeo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.internal|Bokeo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.protect|Bokeo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.private|Bokeo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.personal|Bokeo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.secret|Bokeo.secret]] 
+
+### #is_/same_as :: [Bokeo](/_Standards/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Bokeo.md) 
+
+### #is_/same_as :: [Bokeo.public](/_public/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Bokeo.public.md) 
+
+### #is_/same_as :: [Bokeo.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Bokeo.internal.md) 
+
+### #is_/same_as :: [Bokeo.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Bokeo.protect.md) 
+
+### #is_/same_as :: [Bokeo.private](/_private/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Bokeo.private.md) 
+
+### #is_/same_as :: [Bokeo.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Bokeo.personal.md) 
+
+### #is_/same_as :: [Bokeo.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Bokeo.secret.md)
 

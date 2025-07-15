@@ -40,11 +40,18 @@ markerFolder: ./Phôngsali/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Laos/Counties/Phôngsali|Phôngsali]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Phôngsali.public|Phôngsali.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Phôngsali.internal|Phôngsali.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Phôngsali.protect|Phôngsali.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Phôngsali.private|Phôngsali.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Phôngsali.personal|Phôngsali.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Phôngsali.secret|Phôngsali.secret]] 
+
+### #is_/same_as :: [Phôngsali](/_Standards/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Phôngsali.md) 
+
+### #is_/same_as :: [Phôngsali.public](/_public/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Phôngsali.public.md) 
+
+### #is_/same_as :: [Phôngsali.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Phôngsali.internal.md) 
+
+### #is_/same_as :: [Phôngsali.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Phôngsali.protect.md) 
+
+### #is_/same_as :: [Phôngsali.private](/_private/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Phôngsali.private.md) 
+
+### #is_/same_as :: [Phôngsali.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Phôngsali.personal.md) 
+
+### #is_/same_as :: [Phôngsali.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Phôngsali.secret.md)
 

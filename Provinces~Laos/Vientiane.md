@@ -40,11 +40,18 @@ markerFolder: ./Vientiane/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane|Vientiane]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane.public|Vientiane.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane.internal|Vientiane.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane.protect|Vientiane.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane.private|Vientiane.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane.personal|Vientiane.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane.secret|Vientiane.secret]] 
+
+### #is_/same_as :: [Vientiane](/_Standards/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Vientiane.md) 
+
+### #is_/same_as :: [Vientiane.public](/_public/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Vientiane.public.md) 
+
+### #is_/same_as :: [Vientiane.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Vientiane.internal.md) 
+
+### #is_/same_as :: [Vientiane.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Vientiane.protect.md) 
+
+### #is_/same_as :: [Vientiane.private](/_private/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Vientiane.private.md) 
+
+### #is_/same_as :: [Vientiane.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Vientiane.personal.md) 
+
+### #is_/same_as :: [Vientiane.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Vientiane.secret.md)
 

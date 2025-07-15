@@ -136,10 +136,4 @@ Capital :: [[Laos/Counties/Vientiane]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Laos|Laos]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos.internal|Laos.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos.protect|Laos.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~South~East/Laos.private|Laos.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos.personal|Laos.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos.secret|Laos.secret]] 
+

@@ -40,11 +40,18 @@ markerFolder: ./Xékong/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong|Xékong]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.public|Xékong.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.internal|Xékong.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.protect|Xékong.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.private|Xékong.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.personal|Xékong.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.secret|Xékong.secret]] 
+
+### #is_/same_as :: [Xékong](/_Standards/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Xékong.md) 
+
+### #is_/same_as :: [Xékong.public](/_public/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Xékong.public.md) 
+
+### #is_/same_as :: [Xékong.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Xékong.internal.md) 
+
+### #is_/same_as :: [Xékong.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Xékong.protect.md) 
+
+### #is_/same_as :: [Xékong.private](/_private/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Xékong.private.md) 
+
+### #is_/same_as :: [Xékong.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Xékong.personal.md) 
+
+### #is_/same_as :: [Xékong.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Xékong.secret.md)
 

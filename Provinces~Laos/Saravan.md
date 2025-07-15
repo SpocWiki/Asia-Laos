@@ -40,11 +40,18 @@ markerFolder: ./Saravan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Laos/Counties/Saravan|Saravan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Saravan.public|Saravan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Saravan.internal|Saravan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Saravan.protect|Saravan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Saravan.private|Saravan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Saravan.personal|Saravan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Saravan.secret|Saravan.secret]] 
+
+### #is_/same_as :: [Saravan](/_Standards/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Saravan.md) 
+
+### #is_/same_as :: [Saravan.public](/_public/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Saravan.public.md) 
+
+### #is_/same_as :: [Saravan.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Saravan.internal.md) 
+
+### #is_/same_as :: [Saravan.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Saravan.protect.md) 
+
+### #is_/same_as :: [Saravan.private](/_private/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Saravan.private.md) 
+
+### #is_/same_as :: [Saravan.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Saravan.personal.md) 
+
+### #is_/same_as :: [Saravan.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Saravan.secret.md)
 

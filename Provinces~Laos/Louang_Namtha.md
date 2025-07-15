@@ -40,11 +40,18 @@ markerFolder: ./Louang_Namtha/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Laos/Counties/Louang_Namtha|Louang_Namtha]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Louang_Namtha.public|Louang_Namtha.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Louang_Namtha.internal|Louang_Namtha.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Louang_Namtha.protect|Louang_Namtha.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Louang_Namtha.private|Louang_Namtha.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Louang_Namtha.personal|Louang_Namtha.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Louang_Namtha.secret|Louang_Namtha.secret]] 
+
+### #is_/same_as :: [Louang_Namtha](/_Standards/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Louang_Namtha.md) 
+
+### #is_/same_as :: [Louang_Namtha.public](/_public/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Louang_Namtha.public.md) 
+
+### #is_/same_as :: [Louang_Namtha.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Louang_Namtha.internal.md) 
+
+### #is_/same_as :: [Louang_Namtha.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Louang_Namtha.protect.md) 
+
+### #is_/same_as :: [Louang_Namtha.private](/_private/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Louang_Namtha.private.md) 
+
+### #is_/same_as :: [Louang_Namtha.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Louang_Namtha.personal.md) 
+
+### #is_/same_as :: [Louang_Namtha.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Louang_Namtha.secret.md)
 

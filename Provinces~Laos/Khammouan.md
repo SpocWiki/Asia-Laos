@@ -40,11 +40,18 @@ markerFolder: ./Khammouan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Laos/Counties/Khammouan|Khammouan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Khammouan.public|Khammouan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Khammouan.internal|Khammouan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Khammouan.protect|Khammouan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Khammouan.private|Khammouan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Khammouan.personal|Khammouan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Khammouan.secret|Khammouan.secret]] 
+
+### #is_/same_as :: [Khammouan](/_Standards/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Khammouan.md) 
+
+### #is_/same_as :: [Khammouan.public](/_public/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Khammouan.public.md) 
+
+### #is_/same_as :: [Khammouan.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Khammouan.internal.md) 
+
+### #is_/same_as :: [Khammouan.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Khammouan.protect.md) 
+
+### #is_/same_as :: [Khammouan.private](/_private/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Khammouan.private.md) 
+
+### #is_/same_as :: [Khammouan.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Khammouan.personal.md) 
+
+### #is_/same_as :: [Khammouan.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Khammouan.secret.md)
 

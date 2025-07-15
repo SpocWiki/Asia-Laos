@@ -40,11 +40,18 @@ markerFolder: ./Oudômxai/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Laos/Counties/Oudômxai|Oudômxai]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Oudômxai.public|Oudômxai.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Oudômxai.internal|Oudômxai.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Oudômxai.protect|Oudômxai.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Oudômxai.private|Oudômxai.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Oudômxai.personal|Oudômxai.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Oudômxai.secret|Oudômxai.secret]] 
+
+### #is_/same_as :: [Oudômxai](/_Standards/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Oudômxai.md) 
+
+### #is_/same_as :: [Oudômxai.public](/_public/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Oudômxai.public.md) 
+
+### #is_/same_as :: [Oudômxai.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Oudômxai.internal.md) 
+
+### #is_/same_as :: [Oudômxai.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Oudômxai.protect.md) 
+
+### #is_/same_as :: [Oudômxai.private](/_private/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Oudômxai.private.md) 
+
+### #is_/same_as :: [Oudômxai.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Oudômxai.personal.md) 
+
+### #is_/same_as :: [Oudômxai.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Oudômxai.secret.md)
 

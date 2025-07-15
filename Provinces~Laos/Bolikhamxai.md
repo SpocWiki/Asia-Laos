@@ -40,11 +40,18 @@ markerFolder: ./Bolikhamxai/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bolikhamxai|Bolikhamxai]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bolikhamxai.public|Bolikhamxai.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bolikhamxai.internal|Bolikhamxai.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bolikhamxai.protect|Bolikhamxai.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bolikhamxai.private|Bolikhamxai.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bolikhamxai.personal|Bolikhamxai.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bolikhamxai.secret|Bolikhamxai.secret]] 
+
+### #is_/same_as :: [Bolikhamxai](/_Standards/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Bolikhamxai.md) 
+
+### #is_/same_as :: [Bolikhamxai.public](/_public/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Bolikhamxai.public.md) 
+
+### #is_/same_as :: [Bolikhamxai.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Bolikhamxai.internal.md) 
+
+### #is_/same_as :: [Bolikhamxai.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Bolikhamxai.protect.md) 
+
+### #is_/same_as :: [Bolikhamxai.private](/_private/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Bolikhamxai.private.md) 
+
+### #is_/same_as :: [Bolikhamxai.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Bolikhamxai.personal.md) 
+
+### #is_/same_as :: [Bolikhamxai.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Bolikhamxai.secret.md)
 

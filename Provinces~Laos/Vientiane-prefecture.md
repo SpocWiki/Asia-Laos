@@ -40,11 +40,18 @@ markerFolder: ./Vientiane_[prefecture]/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane-prefecture]|Vientiane-prefecture]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane-prefecture.public|Vientiane-prefecture.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane-prefecture.internal|Vientiane-prefecture.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane-prefecture.protect|Vientiane-prefecture.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane-prefecture.private|Vientiane-prefecture.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane-prefecture.personal|Vientiane-prefecture.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane-prefecture.secret|Vientiane-prefecture.secret]] 
+
+### #is_/same_as :: [Vientiane-prefecture](/_Standards/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Vientiane-prefecture.md) 
+
+### #is_/same_as :: [Vientiane-prefecture.public](/_public/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Vientiane-prefecture.public.md) 
+
+### #is_/same_as :: [Vientiane-prefecture.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Vientiane-prefecture.internal.md) 
+
+### #is_/same_as :: [Vientiane-prefecture.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Vientiane-prefecture.protect.md) 
+
+### #is_/same_as :: [Vientiane-prefecture.private](/_private/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Vientiane-prefecture.private.md) 
+
+### #is_/same_as :: [Vientiane-prefecture.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Vientiane-prefecture.personal.md) 
+
+### #is_/same_as :: [Vientiane-prefecture.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Vientiane-prefecture.secret.md)
 

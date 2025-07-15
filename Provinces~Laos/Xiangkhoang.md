@@ -40,11 +40,18 @@ markerFolder: ./Xiangkhoang/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xiangkhoang|Xiangkhoang]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xiangkhoang.public|Xiangkhoang.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xiangkhoang.internal|Xiangkhoang.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xiangkhoang.protect|Xiangkhoang.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xiangkhoang.private|Xiangkhoang.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xiangkhoang.personal|Xiangkhoang.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xiangkhoang.secret|Xiangkhoang.secret]] 
+
+### #is_/same_as :: [Xiangkhoang](/_Standards/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Xiangkhoang.md) 
+
+### #is_/same_as :: [Xiangkhoang.public](/_public/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Xiangkhoang.public.md) 
+
+### #is_/same_as :: [Xiangkhoang.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Xiangkhoang.internal.md) 
+
+### #is_/same_as :: [Xiangkhoang.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Xiangkhoang.protect.md) 
+
+### #is_/same_as :: [Xiangkhoang.private](/_private/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Xiangkhoang.private.md) 
+
+### #is_/same_as :: [Xiangkhoang.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Xiangkhoang.personal.md) 
+
+### #is_/same_as :: [Xiangkhoang.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Xiangkhoang.secret.md)
 

@@ -32,11 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Laos/City/Vientiane-City|Vientiane-City]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/City/Vientiane-City.public|Vientiane-City.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/City/Vientiane-City.internal|Vientiane-City.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/City/Vientiane-City.protect|Vientiane-City.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/City/Vientiane-City.private|Vientiane-City.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/City/Vientiane-City.personal|Vientiane-City.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/City/Vientiane-City.secret|Vientiane-City.secret]] 
+
+### #is_/same_as :: [Vientiane-City](/_Standards/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Vientiane-prefecture/City/Vientiane-City.md) 
+
+### #is_/same_as :: [Vientiane-City.public](/_public/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Vientiane-prefecture/City/Vientiane-City.public.md) 
+
+### #is_/same_as :: [Vientiane-City.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Vientiane-prefecture/City/Vientiane-City.internal.md) 
+
+### #is_/same_as :: [Vientiane-City.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Vientiane-prefecture/City/Vientiane-City.protect.md) 
+
+### #is_/same_as :: [Vientiane-City.private](/_private/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Vientiane-prefecture/City/Vientiane-City.private.md) 
+
+### #is_/same_as :: [Vientiane-City.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Vientiane-prefecture/City/Vientiane-City.personal.md) 
+
+### #is_/same_as :: [Vientiane-City.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Vientiane-prefecture/City/Vientiane-City.secret.md)
 

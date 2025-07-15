@@ -40,11 +40,18 @@ markerFolder: ./Louangphrabang/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Laos/Counties/Louangphrabang|Louangphrabang]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Louangphrabang.public|Louangphrabang.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Louangphrabang.internal|Louangphrabang.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Louangphrabang.protect|Louangphrabang.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Louangphrabang.private|Louangphrabang.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Louangphrabang.personal|Louangphrabang.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Louangphrabang.secret|Louangphrabang.secret]] 
+
+### #is_/same_as :: [Louangphrabang](/_Standards/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Louangphrabang.md) 
+
+### #is_/same_as :: [Louangphrabang.public](/_public/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Louangphrabang.public.md) 
+
+### #is_/same_as :: [Louangphrabang.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Louangphrabang.internal.md) 
+
+### #is_/same_as :: [Louangphrabang.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Louangphrabang.protect.md) 
+
+### #is_/same_as :: [Louangphrabang.private](/_private/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Louangphrabang.private.md) 
+
+### #is_/same_as :: [Louangphrabang.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Louangphrabang.personal.md) 
+
+### #is_/same_as :: [Louangphrabang.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Louangphrabang.secret.md)
 
