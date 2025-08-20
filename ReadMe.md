@@ -1,41 +1,42 @@
 ---
 location:
-- 17.9667
-- 102.6
+  - 17.9667
+  - 102.6
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26945
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Laos
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Laos
-- Lao People's Democratic Republic
-- República Democrática Popular Lao
-- République démocratique populaire lao
-- جمهورية لاو الديمقراطية الشعبية
-- 老挝人民民主共和国
-- Лаосская Народно-Демократическая Республика
-- the Lao People's Democratic Republic
-- Lao People's Democratic Republic (the)
-- la República Democrática Popular Lao
-- República Democrática Popular Lao (la)
+  - Laos
+  - Lao People's Democratic Republic
+  - República Democrática Popular Lao
+  - République démocratique populaire lao
+  - جمهورية لاو الديمقراطية الشعبية
+  - 老挝人民民主共和国
+  - Лаосская Народно-Демократическая Республика
+  - the Lao People's Democratic Republic
+  - Lao People's Democratic Republic (the)
+  - la República Democrática Popular Lao
+  - República Democrática Popular Lao (la)
 Languages:
-- lo
-- fr
-- en
+  - lo
+  - fr
+  - en
 ---
 
 
