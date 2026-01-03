@@ -40,17 +40,17 @@ markerFolder: ./Houaphan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Houaphan](/_Standards/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Houaphan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Houaphan|Houaphan]] 
 
-### #is_/same_as :: [Houaphan.public](/_public/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Houaphan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Houaphan.public|Houaphan.public]] 
 
-### #is_/same_as :: [Houaphan.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Houaphan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Houaphan.internal|Houaphan.internal]] 
 
-### #is_/same_as :: [Houaphan.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Houaphan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Houaphan.protect|Houaphan.protect]] 
 
-### #is_/same_as :: [Houaphan.private](/_private/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Houaphan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Houaphan.private|Houaphan.private]] 
 
-### #is_/same_as :: [Houaphan.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Houaphan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Houaphan.personal|Houaphan.personal]] 
 
-### #is_/same_as :: [Houaphan.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Houaphan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Houaphan.secret|Houaphan.secret]] 
 

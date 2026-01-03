@@ -40,17 +40,17 @@ markerFolder: ./Saravan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saravan](/_Standards/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Saravan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Saravan|Saravan]] 
 
-### #is_/same_as :: [Saravan.public](/_public/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Saravan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Saravan.public|Saravan.public]] 
 
-### #is_/same_as :: [Saravan.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Saravan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Saravan.internal|Saravan.internal]] 
 
-### #is_/same_as :: [Saravan.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Saravan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Saravan.protect|Saravan.protect]] 
 
-### #is_/same_as :: [Saravan.private](/_private/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Saravan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Saravan.private|Saravan.private]] 
 
-### #is_/same_as :: [Saravan.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Saravan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Saravan.personal|Saravan.personal]] 
 
-### #is_/same_as :: [Saravan.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Saravan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Saravan.secret|Saravan.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Savannakhét/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Savannakhét](/_Standards/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Savannakhét.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Savannakhét|Savannakhét]] 
 
-### #is_/same_as :: [Savannakhét.public](/_public/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Savannakhét.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Savannakhét.public|Savannakhét.public]] 
 
-### #is_/same_as :: [Savannakhét.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Savannakhét.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Savannakhét.internal|Savannakhét.internal]] 
 
-### #is_/same_as :: [Savannakhét.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Savannakhét.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Savannakhét.protect|Savannakhét.protect]] 
 
-### #is_/same_as :: [Savannakhét.private](/_private/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Savannakhét.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Savannakhét.private|Savannakhét.private]] 
 
-### #is_/same_as :: [Savannakhét.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Savannakhét.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Savannakhét.personal|Savannakhét.personal]] 
 
-### #is_/same_as :: [Savannakhét.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Savannakhét.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Savannakhét.secret|Savannakhét.secret]] 
 

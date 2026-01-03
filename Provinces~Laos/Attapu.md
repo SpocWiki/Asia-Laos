@@ -40,17 +40,17 @@ markerFolder: ./Attapu/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Attapu](/_Standards/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Attapu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Attapu|Attapu]] 
 
-### #is_/same_as :: [Attapu.public](/_public/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Attapu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Attapu.public|Attapu.public]] 
 
-### #is_/same_as :: [Attapu.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Attapu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Attapu.internal|Attapu.internal]] 
 
-### #is_/same_as :: [Attapu.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Attapu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Attapu.protect|Attapu.protect]] 
 
-### #is_/same_as :: [Attapu.private](/_private/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Attapu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Attapu.private|Attapu.private]] 
 
-### #is_/same_as :: [Attapu.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Attapu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Attapu.personal|Attapu.personal]] 
 
-### #is_/same_as :: [Attapu.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Attapu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Attapu.secret|Attapu.secret]] 
 

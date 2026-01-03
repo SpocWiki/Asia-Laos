@@ -40,17 +40,17 @@ markerFolder: ./Xaignabouri/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Xaignabouri](/_Standards/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Xaignabouri.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Xaignabouri|Xaignabouri]] 
 
-### #is_/same_as :: [Xaignabouri.public](/_public/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Xaignabouri.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Xaignabouri.public|Xaignabouri.public]] 
 
-### #is_/same_as :: [Xaignabouri.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Xaignabouri.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Xaignabouri.internal|Xaignabouri.internal]] 
 
-### #is_/same_as :: [Xaignabouri.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Xaignabouri.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Xaignabouri.protect|Xaignabouri.protect]] 
 
-### #is_/same_as :: [Xaignabouri.private](/_private/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Xaignabouri.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Xaignabouri.private|Xaignabouri.private]] 
 
-### #is_/same_as :: [Xaignabouri.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Xaignabouri.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Xaignabouri.personal|Xaignabouri.personal]] 
 
-### #is_/same_as :: [Xaignabouri.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Xaignabouri.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Xaignabouri.secret|Xaignabouri.secret]] 
 

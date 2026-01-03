@@ -40,17 +40,17 @@ markerFolder: ./Champasak/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Champasak](/_Standards/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Champasak.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Champasak|Champasak]] 
 
-### #is_/same_as :: [Champasak.public](/_public/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Champasak.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Champasak.public|Champasak.public]] 
 
-### #is_/same_as :: [Champasak.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Champasak.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Champasak.internal|Champasak.internal]] 
 
-### #is_/same_as :: [Champasak.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Champasak.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Champasak.protect|Champasak.protect]] 
 
-### #is_/same_as :: [Champasak.private](/_private/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Champasak.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Champasak.private|Champasak.private]] 
 
-### #is_/same_as :: [Champasak.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Champasak.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Champasak.personal|Champasak.personal]] 
 
-### #is_/same_as :: [Champasak.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Champasak.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Laos/Provinces~Laos/Champasak.secret|Champasak.secret]] 
 
