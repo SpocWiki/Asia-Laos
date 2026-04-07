@@ -122,7 +122,7 @@ markerFolder: ./
 [Area-Land::230800] 
 Continent :: [[Asia]]  
 [VehicleCode::LAO] 
-Capital :: [[Laos/Counties/Vientiane]]  
+Capital :: [[Laos/Counties/Vientiane|Vientiane]]  
 
 ![[Emblem_of_Laos.svg|350]] 
 
