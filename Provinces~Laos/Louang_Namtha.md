@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Louang_Namtha/
 markerFolder: ./Louang_Namtha/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

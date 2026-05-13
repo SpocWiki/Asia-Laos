@@ -28,7 +28,7 @@ coordinates: [[Vientiane]]
 markerFile: [[Vientiane]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
