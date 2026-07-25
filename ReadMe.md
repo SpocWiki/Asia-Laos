@@ -327,7 +327,7 @@ dv_UNTERM_Chinese_Formal: 老挝人民民主共和国
 dv_UNTERM_French_Formal: la République démocratique populaire lao
 dv_UNTERM_Russian: Лаосская Народно-Демократическая Республика
 dv_UNTERM_Russian_Formal: Лаосская Народно-Демократическая Республика
-dv_Region_Name: '[[../../Asia|Asia]]'
+dv_Region_Name: '[[../../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Laos]]'
 dv_Sub-region_Name: '[[South-eastern Asia]]'
 dv_Region: 142
@@ -353,7 +353,7 @@ dv_ISO2: LA
 dv_ISO3: LAO
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Laos,819|WD~Laos,819]]'
+  - '[[../../../../../WikiData/WD~Laos,819|WD~Laos,819]]'
   - '[[/_Standards/Earth/Continent/Asia/Asia~South~East/Laos|Laos]]'
   - '[[/_public/Earth/Continent/Asia/Asia~South~East/Laos.public|Laos.public]]'
   - '[[/_internal/Earth/Continent/Asia/Asia~South~East/Laos.internal|Laos.internal]]'
@@ -364,17 +364,17 @@ dv_is_:
 dv_has_name_de: Lao People's Democratic Republic
 dv_Area-Total: 236800
 dv_Area-Land: 230800
-dv_has_place_continent: '[[../../Asia|Asia]]'
+dv_has_place_continent: '[[../../../Asia|Asia]]'
 dv_VehicleCode: LAO
-dv_Capital: '[[Laos/Counties/Vientiane|Vientiane]]'
+dv_Capital: '[[Counties/Vientiane|Vientiane]]'
 dv_Alcohol-l: 6.7
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 102.6
 dv_has_place_latitude: 17.9667
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Laos
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Laos,819|WD~Laos,819]]'
+- '[[../../../../../WikiData/WD~Laos,819|WD~Laos,819]]'
 - '[[/_Standards/Earth/Continent/Asia/Asia~South~East/Laos|Laos]]'
 - '[[/_public/Earth/Continent/Asia/Asia~South~East/Laos.public|Laos.public]]'
 - '[[/_internal/Earth/Continent/Asia/Asia~South~East/Laos.internal|Laos.internal]]'
@@ -921,7 +921,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Laos/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -941,7 +941,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Laos_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -969,7 +969,7 @@ Capital = `=this.dv_Capital`
 
 ![[Emblem_of_Laos.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Laos.mp3|Anthem-Laos.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Laos.mp3|Anthem-Laos.mp3]]
 
 ![[Flag_of_Laos.svg|350]]
 
