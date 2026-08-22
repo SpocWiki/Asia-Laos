@@ -999,17 +999,17 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Laos|Laos]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Laos/ReadMe|ReadMe]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Laos.public|Laos.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Laos/ReadMe.public|ReadMe.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Laos.internal|Laos.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Laos/ReadMe.internal|ReadMe.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Laos.protect|Laos.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Laos/ReadMe.protect|ReadMe.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Laos.private|Laos.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Laos/ReadMe.private|ReadMe.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Laos.personal|Laos.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Laos/ReadMe.personal|ReadMe.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Laos.secret|Laos.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Laos/ReadMe.secret|ReadMe.secret]] 
 
